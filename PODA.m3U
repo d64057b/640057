@@ -1,0 +1,431 @@
+#EXTM3U
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/Seznam.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Televize Seznam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/Seznam.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/primacomedy.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Paramount Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/primacomedy.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dětské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/baby_tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Baby TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/baby_tv.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct1.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct1.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dětské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ctdecko.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT Déčko
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ctdecko.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct4sport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT Sport
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct4sport.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ctart.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT art
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ctart.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct24.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct24.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct1jm.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT1 JM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct1jm.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct1sm.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT1 SM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct1sm.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/primafamily.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/primafamily.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/primacool.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima COOL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/primacool.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/primalove.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Love
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/primalove.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dokumentární" tvg-logo="https://poda.moderntv.eu/cache/biglogos/primazoom.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Zoom
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/primazoom.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/prima_max.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/prima_max.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/prima_news.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",CNN Prima News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/prima_news.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/prima_star.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Star
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/prima_star.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/prima_krimi.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Krimi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/prima_krimi.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/prima_show.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Prima Show
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/prima_show.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/nova.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/nova.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/novacinema.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/novacinema.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/fanda.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/fanda.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/smichov.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova Fun
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/smichov.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/telka.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova Gold
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/telka.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/nova_lady.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Nova Lady
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/nova_lady.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/stv1.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Jednotka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/stv1.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/stv2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Dvojka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/stv2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/jojfamily.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",JOJ Family
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/jojfamily.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ta3.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TA3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ta3.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ockoHD.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Óčko HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ockoHD.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ocko_starHD.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Óčko STAR HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ocko_starHD.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ocko_expresHD.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Óčko EXPRES HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ocko_expresHD.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ocko_blackHD.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Óčko BLACK HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ocko_blackHD.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Filmové" tvg-logo="https://poda.moderntv.eu/cache/biglogos/filmbox.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",FilmBox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/filmbox.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/barrandov.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Barrandov
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/barrandov.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/barrandovplus.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Barrandov Krimi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/barrandovplus.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/kinobarrandov.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Kino Barrandov
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/kinobarrandov.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/slovak_sport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Arena sport 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/slovak_sport.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/slovak_sport2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Arena sport 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/slovak_sport2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/golf.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Golf Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/golf.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/pohoda.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Relax
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/pohoda.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/rebel.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Rebel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/rebel.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/retro.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Retro
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/retro.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/bbc.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",BBC News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/bbc.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/cnn.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",CNN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/cnn.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tv5.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV5MONDE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tv5.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dokumentární" tvg-logo="https://poda.moderntv.eu/cache/biglogos/kinosvet.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",CS Mystery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/kinosvet.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tvnoe.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Noe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tvnoe.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/Polar.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Polar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/Polar.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/praha.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Praha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/praha.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/regiotv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",A11
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/regiotv.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/slagr.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Šláger Originál
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/slagr.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/slagr2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Šláger Muzika
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/slagr2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/polsatsport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Super Polsat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/polsatsport.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/orf1.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ORF eins
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/orf1.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/orf2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ORF zwei
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/orf2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dokumentární" tvg-logo="https://poda.moderntv.eu/cache/biglogos/up_network.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Spark
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/up_network.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/hobby.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Hobby TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/hobby.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/mnamtv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Mňam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/mnamtv.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tv_paprika.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Paprika
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tv_paprika.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/mnau.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TV Mňau
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/mnau.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tvp1.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TVP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tvp1.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tvp2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TVP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tvp2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tvp_sport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TVP Sport HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tvp_sport.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Všeobecné" tvg-logo="https://poda.moderntv.eu/cache/biglogos/polo_tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Polo TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/polo_tv.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/phoenix.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Phoenix
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/phoenix.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tageschau24.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Tagesschau 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tageschau24.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/jihoceska_televize.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Jihočeská televize
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/jihoceska_televize.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/mezzo.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Mezzo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/mezzo.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/karousel.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Karusel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/karousel.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ard.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Das Erste
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ard.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zahraniční" tvg-logo="https://poda.moderntv.eu/cache/biglogos/zdf.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ZDF
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/zdf.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/arte.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",arte
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/arte.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/tik_bohumin.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Tik Bohumín
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/tik_bohumin.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct1jzc.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT1 JZČ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct1jzc.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Regionální" tvg-logo="https://poda.moderntv.eu/cache/biglogos/ct1svc.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",ČT1 SVČ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/ct1svc.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/stv24.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",RTVS :24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/stv24.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dětské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/rik2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Rik
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/rik2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dokumentární" tvg-logo="https://poda.moderntv.eu/cache/biglogos/arcadia.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Arcadia World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/arcadia.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Dokumentární" tvg-logo="https://poda.moderntv.eu/cache/biglogos/love_nature.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Love Nature 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/love_nature.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/Sport2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Sport2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/Sport2.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Sportovní" tvg-logo="https://poda.moderntv.eu/cache/biglogos/stv4.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",RTVS Šport
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/stv4.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Životní styl" tvg-logo="https://poda.moderntv.eu/cache/biglogos/spektrum_home.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Spektrum home
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/spektrum_home.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Hudební" tvg-logo="https://poda.moderntv.eu/cache/biglogos/slagr_premium.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Šláger Premium HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/slagr_premium.m3u8
+#EXTINF:-1 provider="PODA.tv" group-title="Zpravodajské" tvg-logo="https://poda.moderntv.eu/cache/biglogos/france24_fr.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",France 24 (FR)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+http://localhost:8888/poda/france24_fr.m3u8
